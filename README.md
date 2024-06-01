@@ -1,5 +1,4 @@
-# Olá meu nome é Lucas Vieira.
-Seja bem vindo ao meu perfil do Github.
+# Welcome to my GitHub profile!
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Lucas-vSilva&show_icons=true&theme=dark"
@@ -23,7 +22,7 @@ Seja bem vindo ao meu perfil do Github.
   
 ## Meus Projetos
 
-- [Projeto C#](https://github.com/Lucas-vSilva/Estoque.git)
-- [Projeto Python](https://github.com/Lucas-vSilva/CYBER-LOFI-RADIO.git)
+- [Project C#](https://github.com/Lucas-vSilva/Estoque.git)
+- [Project Python](https://github.com/Lucas-vSilva/CYBER-LOFI-RADIO.git)
 
 
